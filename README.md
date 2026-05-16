@@ -61,8 +61,8 @@ Two experiments were conducted:
 
 | Model | Optimizer | Accuracy | Loss |
 |------|----------|----------|------|
-| CNN Model 1 | Adam | XX% | XX |
-| CNN Model 2 | SGD | XX% | XX |
+| CNN Model 1 | Adam | 99.09% | 0.0256 |
+| CNN Model 2 | SGD | 99.05% | 0.0289 |
 
 ---
 
